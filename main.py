@@ -22,7 +22,7 @@ class Student:
         print("The score I got is", self.score)
 
 
-Bob = Student(name="Bob", age=26, tracks=["FE", "BE"], score=20.90)
+Bob = Student(name="Peter", age=34, tracks=["FE", "BE"], score=20.90)
 
 # Expected methods
 Bob.change_name("Peter")
